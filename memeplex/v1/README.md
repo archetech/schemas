@@ -21,7 +21,7 @@ Memeplex is a design and is not implemented. These schemas are not published yet
 | Schema | What it is |
 |---|---|
 | [grant.json](grant.json) | A user's authorization for one client to publish as them (`memeplexGrant`) |
-| [grant-request.json](grant-request.json) | What a client presents to a wallet to ask for a grant (`memeplexGrantRequest`) |
+| [grant-request.json](grant-request.json) | What a client asks a wallet for: the data of an asset the client creates, which a grant link names (`memeplexGrantRequest`) |
 
 ## Published as
 
